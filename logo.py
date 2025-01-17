@@ -14,7 +14,7 @@ svg_content = """
     <rect width="600" height="300" fill="black" rx="10" ry="10" />
     
     <!-- Cabecalho do terminal -->
-    <rect width="600" height="30" fill="#333" rx="10" ry="10" />
+    <path d="M0 10 Q0 0 10 0 H590 Q600 0 600 10 V30 H0 Z" fill="#333" />
     <circle cx="20" cy="15" r="7" fill="#FF5F57" />
     <circle cx="40" cy="15" r="7" fill="#FFBD2E" />
     <circle cx="60" cy="15" r="7" fill="#28C940" />
